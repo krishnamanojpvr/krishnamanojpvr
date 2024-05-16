@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Krishna Manoj PVR</h1>
 <h3 align="center">A Beginner Full Stack Developer from Hyderabad, India</h3>
 
+
 - 🔭 I’m currently working on **Tech for Autism and Dyslexia**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **pvrkmsbunny@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamanojpvr&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamanojpvr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krishnamanojpvr" target="blank"><img src="https://img.shields.io/twitter/follow/krishnamanojpvr?logo=twitter&style=for-the-badge" alt="krishnamanojpvr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
