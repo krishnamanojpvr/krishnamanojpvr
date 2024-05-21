@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/krishnamanojpvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnamanojpvr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishna-manoj-pvr-14b237267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-manoj-pvr-14b237267" height="30" width="40" /></a>
-<a href="https://instagram.com/krishnamanoj_pvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnamanoj_pvr" height="30" width="40" /></a>
+<a href="https://instagram.com/krishnamanojpvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnamanoj_pvr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishnamanojpvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnamanojpvr" height="30" width="40" /></a>
 </p>
 
