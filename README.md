@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Manoj PVR</h1>
 <h3 align="center">A Beginner Full Stack Developer from Hyderabad, India</h3>
 
-
-- 🔭 I’m currently working on **Tech for Autism and Dyslexia**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **pvrkmsbunny@gmail.com**
 
 
