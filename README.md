@@ -180,5 +180,5 @@ Full stack developer and AI enthusiast with a strong foundation in **data struct
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krishnamanojpvr/krishnamanojpvr/output/snake.svg" alt="Snake animation" />
+ <img src="https://github.com/krishnamanojpvr/krishnamanojpvr/blob/output/snake.svg?raw=true" alt="Snake animation" />
 </div>
