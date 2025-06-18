@@ -134,7 +134,7 @@ Full stack developer and AI enthusiast with a strong foundation in **data struct
 ### 🎓 Full Stack Developer Intern
 **Swamedha Educational Services** | *February 2025 – March 2025*
 
-<img src="https://img.shields.io/badge/Status-Current-4ECDC4?style=for-the-badge&labelColor=000000" alt="Current"/>
+<img src="https://img.shields.io/badge/Status-Current-4ECDC4?style=for-the-badge&labelColor=000000" alt="Completed"/>
 
 - 🏗️ Designed and developed **Ganita Medha** and **Swamedha** - interactive learning platforms
 - 📚 Enhanced student-teacher engagement for school-level education
