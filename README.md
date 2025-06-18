@@ -21,9 +21,6 @@
     <a href="https://github.com/krishnamanojpvr">
       <img src="https://img.shields.io/badge/GitHub-45B7D1?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
     </a>
-    <a href="tel:+919441585691">
-      <img src="https://img.shields.io/badge/Phone-FF9F43?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" alt="Phone"/>
-    </a>
   </p>
   
   <!-- Location with Icon -->
