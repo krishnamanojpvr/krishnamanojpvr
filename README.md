@@ -304,11 +304,6 @@ Full stack developer and AI enthusiast with a strong foundation in **data struct
   
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/krishnamanojpvr/krishnamanojpvr/blob/output/snake.svg?raw=true" alt="Snake animation" />
-</div>
-
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" width="100%"/>
 
