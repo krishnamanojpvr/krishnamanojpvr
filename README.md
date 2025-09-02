@@ -31,7 +31,7 @@
 - **Frameworks/Libraries:** ReactJS, Node.js, Express.js, Flutter, Flask, Scikit-learn, TensorFlow, Pandas, NumPy, Bootstrap, Tailwind  
 - **Databases:** MongoDB, MySQL  
 - **Tools/Platforms:** VS Code, Git & GitHub, AWS, Postman, Playwright, Vercel, Docker, Kubernetes
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,dart,js,mongodb,mysql,react,nodejs,express,flutter,flask,scikitlearn,tensorflow,bootstrap,tailwind,vscode,git,github,aws,postman,vercel,docker,kubernetes" />
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,dart,js,mongodb,mysql,react,nodejs,express,flutter,flask,fastapi,nginx,scikitlearn,tensorflow,bootstrap,tailwind,vscode,git,aws,postman,vercel,docker,kubernetes,linux,bash" />
 </p>
 
 
